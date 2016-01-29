@@ -37,7 +37,7 @@ For each record it is provided:
 * mean(): Mean value
 * std(): Standard deviation
 
-of
+** of **
 
 * tBodyAcc-XYZ
 * tGravityAcc-XYZ
@@ -68,4 +68,4 @@ of
 ##subjects are int val
 
 #Second, independent tidy data set 
-**(step_5_Data.txt)  contains the average of each variable for each activity and each subject.
+** (step_5_Data.txt)  contains the average of each variable for each activity and each subject. **
